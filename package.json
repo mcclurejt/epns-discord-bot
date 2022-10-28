@@ -9,7 +9,7 @@
     "start": "node dist/src/index.ts",
     "deploy-commands": "npx ts-node scripts/deploy-commands.ts",
     "remove-commands": "npx ts-node scripts/remove-commands.ts",
-    "s": "npx ts-node s.ts"
+    "s": "npx ts-node send-notification.ts"
   },
   "repository": {
     "type": "git",
